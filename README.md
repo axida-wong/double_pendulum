@@ -1,4 +1,4 @@
-### Simple Double Pendulum Simulation in C.
+# Simple Double Pendulum Simulation in C.
 ---
 ## Dependencies
 ---
